@@ -18,12 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="149" column="279" selection-start-line="149" selection-start-column="279" selection-end-line="149" selection-end-column="279" />
+            <state relative-caret-position="51">
+              <caret line="182" column="74" selection-start-line="182" selection-start-column="74" selection-end-line="182" selection-end-column="74" />
               <folding>
                 <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -52,6 +51,7 @@
       <find>COFFEE</find>
       <find>li</find>
       <find>ul</find>
+      <find>gallery</find>
     </findStrings>
     <replaceStrings>
       <replace>Othéoo</replace>
@@ -153,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615231687337</updated>
-      <workItem from="1615231688589" duration="6364000" />
+      <workItem from="1615231688589" duration="7948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6364000" />
+    <option name="totallyTimeSpent" value="7948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -199,12 +199,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="149" column="279" selection-start-line="149" selection-start-column="279" selection-end-line="149" selection-end-column="279" />
+        <state relative-caret-position="51">
+          <caret line="182" column="74" selection-start-line="182" selection-start-column="74" selection-end-line="182" selection-end-column="74" />
           <folding>
             <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
